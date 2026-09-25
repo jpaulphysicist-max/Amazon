@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Holiday Store",
+  "description": "Browse, purchase, and review holiday goods, decorations, and gifts for all major holidays with authentic Amazon shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
